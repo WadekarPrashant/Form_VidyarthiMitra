@@ -1,0 +1,9 @@
+/* Style for the user response form */
+.container {
+    max-width: 800px;
+  }
+  
+  .d-none {
+    display: none;
+  }
+  
